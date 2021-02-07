@@ -7,8 +7,9 @@
 ![License](https://img.shields.io/badge/License-ISC-green.svg)
 
 
-This application will allow you to track your employees by number, department, or manager. It uses MYSQL and has a convienant chart style for you to use to it's full potential.
-Here is the screenshot of application: <img src="https://dsm01pap002files.storage.live.com/y4mIWm0uYCjshf4gtxPYDYIQyIxqZnlHY51JSjlhJkmsHEwNA_3SkNWGiZ9tQD2OOr40sn1-gcxyNGnaboFYlUfphfeoa2z5vGAxml_zNb3xCFZJPzIG4ygUgX_vmOl-BlI5ZJfi4OUQzUf2poKMp40XgrKFgr2o-teQOW6XquP3XYvbEgxWvZAsGYe1VrcZeaY?width=1920&height=1080&cropmode=none" width="1920" height="1080" />
+This application will allow you to track your employees by number, department, or manager. It uses MYSQL and has a convienant chart style for you to use to it's full potential. You are able to put employee names, departments, managers, and IDs into the tracker and it will sort all of that info into a conveinant table. You are also able to add,remove and update employees easily.
+Here is a screenshot of the application: <img src="https://dsm01pap002files.storage.live.com/y4mIWm0uYCjshf4gtxPYDYIQyIxqZnlHY51JSjlhJkmsHEwNA_3SkNWGiZ9tQD2OOr40sn1-gcxyNGnaboFYlUfphfeoa2z5vGAxml_zNb3xCFZJPzIG4ygUgX_vmOl-BlI5ZJfi4OUQzUf2poKMp40XgrKFgr2o-teQOW6XquP3XYvbEgxWvZAsGYe1VrcZeaY?width=1920&height=1080&cropmode=none" width="1920" height="1080" />
+
 
 ## Table of Contents
 
