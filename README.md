@@ -11,6 +11,8 @@ This application will allow you to track your employees by number, department, o
 Here is a screenshot of the application: <img src="https://dsm01pap002files.storage.live.com/y4mIWm0uYCjshf4gtxPYDYIQyIxqZnlHY51JSjlhJkmsHEwNA_3SkNWGiZ9tQD2OOr40sn1-gcxyNGnaboFYlUfphfeoa2z5vGAxml_zNb3xCFZJPzIG4ygUgX_vmOl-BlI5ZJfi4OUQzUf2poKMp40XgrKFgr2o-teQOW6XquP3XYvbEgxWvZAsGYe1VrcZeaY?width=1920&height=1080&cropmode=none" width="1920" height="1080" />
 
 
+Here is the screencastify link for a working demo of the application: https://drive.google.com/file/d/1QX4tK1kQtZKX43uxXTU3s3vr0tMxVPga/view
+
 ## Table of Contents
 
 
